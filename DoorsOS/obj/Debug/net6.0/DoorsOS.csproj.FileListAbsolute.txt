@@ -1,0 +1,12 @@
+C:\Users\LINSUX\source\repos\DoorsOS\DoorsOS\bin\Debug\net6.0\DoorsOS.deps.json
+C:\Users\LINSUX\source\repos\DoorsOS\DoorsOS\bin\Debug\net6.0\DoorsOS.dll
+C:\Users\LINSUX\source\repos\DoorsOS\DoorsOS\bin\Debug\net6.0\DoorsOS.pdb
+C:\Users\LINSUX\source\repos\DoorsOS\DoorsOS\obj\Debug\net6.0\DoorsOS.csproj.AssemblyReference.cache
+C:\Users\LINSUX\source\repos\DoorsOS\DoorsOS\obj\Debug\net6.0\DoorsOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LINSUX\source\repos\DoorsOS\DoorsOS\obj\Debug\net6.0\DoorsOS.AssemblyInfoInputs.cache
+C:\Users\LINSUX\source\repos\DoorsOS\DoorsOS\obj\Debug\net6.0\DoorsOS.AssemblyInfo.cs
+C:\Users\LINSUX\source\repos\DoorsOS\DoorsOS\obj\Debug\net6.0\DoorsOS.csproj.CoreCompileInputs.cache
+C:\Users\LINSUX\source\repos\DoorsOS\DoorsOS\obj\Debug\net6.0\DoorsOS.dll
+C:\Users\LINSUX\source\repos\DoorsOS\DoorsOS\obj\Debug\net6.0\refint\DoorsOS.dll
+C:\Users\LINSUX\source\repos\DoorsOS\DoorsOS\obj\Debug\net6.0\DoorsOS.pdb
+C:\Users\LINSUX\source\repos\DoorsOS\DoorsOS\obj\Debug\net6.0\ref\DoorsOS.dll
